@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @templar-command0
 - 👀 I’m interested in making cool softwares that solve problems
-- 🌱 I’m currently learning web devolepment by being a Software Intern at Talentelgia
+- 🌱 I’m currently learning web devolepment by being a Software Intern at Talentelgia (https://www.talentelgia.com/)
 - 💞️ I’m looking to collaborate on any website designing stuff
 - 📫 How to reach me at ajay.kumar@talentelgia.in / https://www.instagram.com/o_command0
 
