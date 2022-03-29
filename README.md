@@ -5,7 +5,7 @@
 - 📫 How to reach me? - email -> ajay.kumar@talentelgia.in / social media handle-> https://www.instagram.com/o_command0
 - check out my projects while you are here -> 
 1. calculator - https://templar-command0.github.io/my-calc/
-2. Leads Tracker Extension - 
+2. Leads Tracker Extension - https://templar-command0.github.io/Leads-tracker-browser-extension/
 
 <!---
 templar-command0/templar-command0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
