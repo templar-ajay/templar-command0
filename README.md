@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @templar-command0
 - 👀 I’m interested in making business websites and apps
-- 🌱 I’m currently learning web devolepment by being a Software Intern at Talentelgia (https://www.talentelgia.com/)
+- 🌱 I’m currently learning web devolepment.
 - 💞️ I’m looking to collaborate on website designing projects
 - 📫 How to reach me? - email -> ajaychaudharyrajasthan@gmail.com / social media handle-> https://www.instagram.com/templar_command0
 - check out my projects while you are here -> 
