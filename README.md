@@ -7,6 +7,7 @@
 1. calculator - https://templar-command0.github.io/my-calc/
 2. game - https://templar-command0.github.io/game
 3. Leads Tracker Extension - https://templar-command0.github.io/Leads-tracker-browser-extension/
+4. Notes Website - https://templar-command0.github.io/notes-website/
 
 <!---
 templar-command0/templar-command0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
