@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @templar-command0
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in making business websites and apps
 - 🌱 I’m currently learning web devolepment.
 - 💞️ I’m looking to collaborate on website designing projects
