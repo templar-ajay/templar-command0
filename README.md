@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=templar-command0&label=Profile%20views&color=0e75b6&style=flat" alt="templar-command0" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Face Recognition using MediaPipe - Machine Learning Library**
 
-- 💬 Ask me about **React, Javascript, Nodejs , deployment on AWS and Google Cloud**
+- 💬 Ask me about **React, Javascript, Nodejs ,MongoDB deployment on AWS and Google Cloud**
 
 - 📫 How to reach me **templar.command0@gmail.com**
 
