@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **templar.command0@gmail.com**
 
-- ⚡ Hobbies **Football⚽ and chess♟️**
+- ⚡ Hobbies **Football⚽ and [chess](https://www.chess.com/member/ajay_thesaiyan)♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
